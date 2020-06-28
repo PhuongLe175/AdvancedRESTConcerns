@@ -1,23 +1,52 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="7ebff61c-e5bc-4190-9e17-1fa86f9706a9" name="Default Changelist" comment="" />
+    <list default="true" id="7ebff61c-e5bc-4190-9e17-1fa86f9706a9" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.CourseLibrary/.idea/contentModel.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.CourseLibrary/.idea/contentModel.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.CourseLibrary/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.CourseLibrary/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CourseLibrary.API/Controllers/AuthorsController.cs" beforeDir="false" afterPath="$PROJECT_DIR$/CourseLibrary.API/Controllers/AuthorsController.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CourseLibrary.API/ResourceParameters/AuthorsResourceParameters.cs" beforeDir="false" afterPath="$PROJECT_DIR$/CourseLibrary.API/ResourceParameters/AuthorsResourceParameters.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CourseLibrary.API/Services/CourseLibraryRepository.cs" beforeDir="false" afterPath="$PROJECT_DIR$/CourseLibrary.API/Services/CourseLibraryRepository.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CourseLibrary.API/Services/ICourseLibraryRepository.cs" beforeDir="false" afterPath="$PROJECT_DIR$/CourseLibrary.API/Services/ICourseLibraryRepository.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CourseLibrary.API/Startup.cs" beforeDir="false" afterPath="$PROJECT_DIR$/CourseLibrary.API/Startup.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CourseLibrary.API/obj/Debug/netcoreapp3.0/CourseLibrary.API.csprojAssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/CourseLibrary.API/obj/Debug/netcoreapp3.0/CourseLibrary.API.csprojAssemblyReference.cache" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
   <component name="HighlightingSettingsPerFile">
-    <setting file="file://$PROJECT_DIR$/CourseLibrary.API/Controllers/AuthorsController.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/CourseLibrary.API/Services/CourseLibraryRepository.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/CourseLibrary.API/Services/ICourseLibraryRepository.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/CourseLibrary.API/DbContexts/CourseLibraryContext.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/CourseLibrary.API/ResourceParameters/AuthorsResourceParameters.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/CourseLibrary.API/Helpers/PagedList.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/CourseLibrary.API/Controllers/CoursesController.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$USER_HOME$/.config/NuGet/NuGet.Config" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/CourseLibrary.API/Controllers/AuthorCollectionsController.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/CourseLibrary.API/Controllers/AuthorsController.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/CourseLibrary.API/ResourceParameters/AuthorsResourceParameters.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/CourseLibrary.API/Models/AuthorDto.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/CourseLibrary.API/Models/CourseForManipulationDto.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/CourseLibrary.API/Program.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/CourseLibrary.API/Models/AuthorForCreationDto.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/CourseLibrary.API/Startup.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/CourseLibrary.API/Models/CourseForCreationDto.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/CourseLibrary.API/Helpers/ResourceUriType.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/CourseLibrary.API/Models/CourseForUpdateDto.cs" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
+        <option value="$PROJECT_DIR$/CourseLibrary.API/ResourceParameters/AuthorsResourceParameters.cs" />
+        <option value="$PROJECT_DIR$/CourseLibrary.API/Helpers/PagedList.cs" />
+        <option value="$PROJECT_DIR$/CourseLibrary.API/Services/ICourseLibraryRepository.cs" />
+        <option value="$PROJECT_DIR$/CourseLibrary.API/Services/CourseLibraryRepository.cs" />
+        <option value="$PROJECT_DIR$/CourseLibrary.API/Helpers/ResourceUriType.cs" />
+        <option value="$PROJECT_DIR$/CourseLibrary.API/Controllers/AuthorsController.cs" />
         <option value="$PROJECT_DIR$/CourseLibrary.API/Startup.cs" />
       </list>
     </option>
@@ -28,6 +57,9 @@
     <option name="height" value="1027" />
   </component>
   <component name="ProjectId" id="1dvxKjtEGYZtBNuDnfRVdnTTGnX" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -90,6 +122,7 @@
       <workItem from="1593245950534" duration="329000" />
       <workItem from="1593246450099" duration="464000" />
       <workItem from="1593319311527" duration="278000" />
+      <workItem from="1593333156630" duration="4722000" />
     </task>
     <servers />
   </component>
@@ -99,6 +132,24 @@
   <component name="VcsManagerConfiguration">
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
   </component>
+  <component name="WindowStateProjectService">
+    <state width="819" height="272" key="GridCell.Tab.0.bottom" timestamp="1593338958535">
+      <screen x="0" y="23" width="1680" height="1027" />
+    </state>
+    <state width="819" height="272" key="GridCell.Tab.0.bottom/0.23.1680.1027@0.23.1680.1027" timestamp="1593338958535" />
+    <state width="819" height="272" key="GridCell.Tab.0.center" timestamp="1593338958534">
+      <screen x="0" y="23" width="1680" height="1027" />
+    </state>
+    <state width="819" height="272" key="GridCell.Tab.0.center/0.23.1680.1027@0.23.1680.1027" timestamp="1593338958534" />
+    <state width="819" height="272" key="GridCell.Tab.0.left" timestamp="1593338958533">
+      <screen x="0" y="23" width="1680" height="1027" />
+    </state>
+    <state width="819" height="272" key="GridCell.Tab.0.left/0.23.1680.1027@0.23.1680.1027" timestamp="1593338958533" />
+    <state width="819" height="272" key="GridCell.Tab.0.right" timestamp="1593338958534">
+      <screen x="0" y="23" width="1680" height="1027" />
+    </state>
+    <state width="819" height="272" key="GridCell.Tab.0.right/0.23.1680.1027@0.23.1680.1027" timestamp="1593338958534" />
+  </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
       <breakpoints>
@@ -106,6 +157,19 @@
           <properties exception="System.Threading.ThreadAbortException" displayValue="System.Threading.ThreadAbortException" />
           <option name="timeStamp" value="1" />
         </breakpoint>
+        <line-breakpoint enabled="true" type="DotNet Breakpoints">
+          <url>file://$PROJECT_DIR$/CourseLibrary.API/Services/CourseLibraryRepository.cs</url>
+          <line>52</line>
+          <properties documentPath="$PROJECT_DIR$/CourseLibrary.API/Services/CourseLibraryRepository.cs" initialLine="52">
+            <startOffsets>
+              <option value="1544" />
+            </startOffsets>
+            <endOffsets>
+              <option value="1632" />
+            </endOffsets>
+          </properties>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
   </component>

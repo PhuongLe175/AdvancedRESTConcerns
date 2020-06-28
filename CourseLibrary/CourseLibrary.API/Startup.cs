@@ -90,7 +90,7 @@ namespace CourseLibrary.API
             {
                 options.UseSqlServer(
                     
-                    @"Server=tcp:phuongle.database.windows.net,1433;Initial Catalog=CourseLibraryDB;Persist Security Info=False;User ID=phuongle;Password=*********;MultipleActiveResultSets=False;Encrypt=True;TrustServerCertificate=False;Connection Timeout=30;");
+                    @"Server=tcp:phuongle.database.windows.net,1433;Initial Catalog=CourseLibraryDB;Persist Security Info=False;User ID=phuongle;Password=****;MultipleActiveResultSets=False;Encrypt=True;TrustServerCertificate=False;Connection Timeout=30;");
             }); 
         }
 
